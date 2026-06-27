@@ -4,17 +4,18 @@ public:
         int n = a.size();
 
         int noDel = a[0];
-        int oneDel = 0;
+        int oneDel = a[0];
         int ans = a[0];
 
-        for(int i = 1; i < n; i++) {
+        for (int i = 1; i < n; i++) {
+            int prevNoDel = noDel;
+            int prevOneDel = oneDel;
 
-            oneDel = max(noDel, oneDel + a[i]);
-            noDel = max(a[i], noDel + a[i]);
+            noDel = max(a[i], prevNoDel + a[i]);
+            oneDel = max(prevNoDel, prevOneDel + a[i]);
 
             ans = max(ans, max(noDel, oneDel));
         }
-
         return ans;
     }
 };
