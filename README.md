@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ohhkajal/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ohhkajal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ohhkajal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ohhkajal/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -119,5 +121,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
