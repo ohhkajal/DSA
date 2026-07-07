@@ -146,10 +146,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/ohhkajal/DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Union-Find
@@ -169,4 +171,12 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
