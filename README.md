@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/ohhkajal/DSA/tree/master/0152-maximum-product-subarray) |
@@ -90,6 +91,7 @@
 | [0006-zigzag-conversion](https://github.com/ohhkajal/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ohhkajal/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/ohhkajal/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
