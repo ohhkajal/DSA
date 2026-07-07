@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ohhkajal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ohhkajal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ohhkajal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ohhkajal/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/ohhkajal/DSA/tree/master/0152-maximum-product-subarray) |
+| [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
@@ -137,6 +140,7 @@
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
+| [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 ## Matrix
 |  |
 | ------- |
@@ -179,4 +183,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
