@@ -98,6 +98,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ohhkajal/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ohhkajal/DSA/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 ## Simulation
 |  |
 | ------- |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
