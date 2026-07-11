@@ -96,6 +96,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ohhkajal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ohhkajal/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ohhkajal/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/ohhkajal/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ohhkajal/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
@@ -130,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ohhkajal/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ohhkajal/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 ## Simulation
 |  |
