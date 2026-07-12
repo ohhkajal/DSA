@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/ohhkajal/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ohhkajal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ohhkajal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ohhkajal/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -73,6 +75,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -101,6 +104,7 @@
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ohhkajal/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
