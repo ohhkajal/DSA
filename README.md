@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
