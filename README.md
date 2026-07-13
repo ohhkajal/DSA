@@ -234,4 +234,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ohhkajal/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
