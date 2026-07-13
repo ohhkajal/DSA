@@ -174,12 +174,14 @@
 | ------- |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/ohhkajal/DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -209,11 +211,13 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 ## Bitmask
 |  |
 | ------- |
