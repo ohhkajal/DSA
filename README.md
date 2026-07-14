@@ -110,6 +110,7 @@
 | [0038-count-and-say](https://github.com/ohhkajal/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
@@ -128,12 +129,14 @@
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 ## Divide and Conquer
@@ -210,6 +213,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ohhkajal/DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 ## Tree
