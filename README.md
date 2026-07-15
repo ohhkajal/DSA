@@ -138,12 +138,14 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ohhkajal/DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/ohhkajal/DSA/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
