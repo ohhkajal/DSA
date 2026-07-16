@@ -146,6 +146,7 @@
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ohhkajal/DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/ohhkajal/DSA/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 ## Divide and Conquer
 |  |
@@ -180,6 +181,7 @@
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/ohhkajal/DSA/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 ## Matrix
 |  |
