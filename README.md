@@ -148,6 +148,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/ohhkajal/DSA/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
+| [0868-binary-gap](https://github.com/ohhkajal/DSA/tree/master/0868-binary-gap) |
 ## Divide and Conquer
 |  |
 | ------- |
