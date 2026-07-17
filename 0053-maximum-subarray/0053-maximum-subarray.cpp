@@ -10,8 +10,6 @@ public:
             bestending=max(v1,v2);
             ans=max(bestending,ans);
         }
-        return ans;
-
-        
+        return ans;   
     }
 };
