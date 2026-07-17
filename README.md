@@ -28,6 +28,7 @@
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ohhkajal/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ohhkajal/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ohhkajal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ohhkajal/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +79,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ohhkajal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ohhkajal/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ohhkajal/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ohhkajal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
