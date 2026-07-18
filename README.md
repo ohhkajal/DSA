@@ -36,6 +36,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/ohhkajal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ohhkajal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -145,6 +146,7 @@
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ohhkajal/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -281,6 +283,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ohhkajal/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
