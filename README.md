@@ -131,6 +131,7 @@
 | [0091-decode-ways](https://github.com/ohhkajal/DSA/tree/master/0091-decode-ways) |
 | [0424-longest-repeating-character-replacement](https://github.com/ohhkajal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/ohhkajal/DSA/tree/master/0696-count-binary-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Linked List
 |  |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -298,4 +300,12 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
