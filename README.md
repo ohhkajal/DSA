@@ -228,6 +228,7 @@
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -271,12 +272,14 @@
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Bitmask
 |  |
 | ------- |
