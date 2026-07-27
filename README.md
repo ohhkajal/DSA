@@ -43,6 +43,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ohhkajal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -251,6 +252,7 @@
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Enumeration
 |  |
