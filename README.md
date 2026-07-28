@@ -54,6 +54,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ohhkajal/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ohhkajal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Combinatorics
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -320,6 +323,7 @@
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
 |  |
 | ------- |
