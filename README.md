@@ -159,6 +159,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ohhkajal/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ohhkajal/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ohhkajal/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ohhkajal/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -292,6 +293,7 @@
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ohhkajal/DSA/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ohhkajal/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ohhkajal/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ohhkajal/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ohhkajal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
