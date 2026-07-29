@@ -76,6 +76,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ohhkajal/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ohhkajal/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/ohhkajal/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ohhkajal/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ohhkajal/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ohhkajal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ohhkajal/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ohhkajal/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ohhkajal/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -246,6 +249,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -345,6 +349,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ohhkajal/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search Tree
 |  |
