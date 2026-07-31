@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ohhkajal/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/ohhkajal/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/ohhkajal/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ohhkajal/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/ohhkajal/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
