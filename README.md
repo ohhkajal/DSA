@@ -180,6 +180,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ohhkajal/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ohhkajal/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ohhkajal/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
