@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ohhkajal/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ohhkajal/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ohhkajal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ohhkajal/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -207,6 +208,7 @@
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ohhkajal/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -258,6 +260,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -446,4 +449,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
