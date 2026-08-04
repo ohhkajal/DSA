@@ -78,6 +78,7 @@
 | [0141-linked-list-cycle](https://github.com/ohhkajal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ohhkajal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
+| [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/ohhkajal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ohhkajal/DSA/tree/master/0904-fruit-into-baskets) |
@@ -180,6 +181,7 @@
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ohhkajal/DSA/tree/master/0091-decode-ways) |
+| [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/ohhkajal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/ohhkajal/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ohhkajal/DSA/tree/master/0761-special-binary-string) |
@@ -383,6 +385,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
