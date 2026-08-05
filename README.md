@@ -73,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ohhkajal/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ohhkajal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ohhkajal/DSA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/ohhkajal/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
@@ -175,6 +176,7 @@
 | [0006-zigzag-conversion](https://github.com/ohhkajal/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ohhkajal/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ohhkajal/DSA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ohhkajal/DSA/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ohhkajal/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/ohhkajal/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
