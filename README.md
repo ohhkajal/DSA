@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ohhkajal/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ohhkajal/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ohhkajal/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ohhkajal/DSA/tree/master/0018-4sum) |
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ohhkajal/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ohhkajal/DSA/tree/master/0018-4sum) |
@@ -404,6 +406,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ohhkajal/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
