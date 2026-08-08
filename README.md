@@ -117,6 +117,7 @@
 | [0696-count-binary-substrings](https://github.com/ohhkajal/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ohhkajal/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ohhkajal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -213,6 +214,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ohhkajal/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ohhkajal/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ohhkajal/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -299,6 +301,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ohhkajal/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ohhkajal/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -432,6 +435,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Enumeration
 |  |
 | ------- |
