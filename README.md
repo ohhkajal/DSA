@@ -46,6 +46,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ohhkajal/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ohhkajal/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ohhkajal/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -175,6 +176,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ohhkajal/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ohhkajal/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ohhkajal/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
@@ -241,6 +243,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ohhkajal/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -296,6 +299,7 @@
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -498,14 +502,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
