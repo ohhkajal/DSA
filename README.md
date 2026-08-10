@@ -245,6 +245,7 @@
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -302,6 +303,7 @@
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ohhkajal/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ohhkajal/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -504,18 +506,29 @@
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
