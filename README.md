@@ -351,6 +351,7 @@
 | ------- |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -362,6 +363,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -406,6 +408,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -414,6 +417,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Bitmask
