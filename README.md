@@ -255,6 +255,7 @@
 | [0002-add-two-numbers](https://github.com/ohhkajal/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ohhkajal/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ohhkajal/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ohhkajal/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ohhkajal/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
@@ -284,6 +285,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ohhkajal/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ohhkajal/DSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
