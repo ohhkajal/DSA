@@ -62,6 +62,7 @@
 | [1980-find-unique-binary-string](https://github.com/ohhkajal/DSA/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/ohhkajal/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ohhkajal/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ohhkajal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ohhkajal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ohhkajal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -173,6 +174,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ohhkajal/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ohhkajal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ohhkajal/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -416,6 +418,7 @@
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
