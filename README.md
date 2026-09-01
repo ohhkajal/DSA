@@ -74,6 +74,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ohhkajal/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ohhkajal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ohhkajal/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -114,6 +115,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ohhkajal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ohhkajal/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ohhkajal/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ohhkajal/DSA/tree/master/3731-find-missing-elements) |
@@ -323,6 +325,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ohhkajal/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ohhkajal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Divide and Conquer
 |  |
@@ -391,6 +394,7 @@
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -415,6 +419,7 @@
 | [2608-shortest-cycle-in-a-graph](https://github.com/ohhkajal/DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ohhkajal/DSA/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
