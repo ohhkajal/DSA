@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ohhkajal/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ohhkajal/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ohhkajal/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ohhkajal/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ohhkajal/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ohhkajal/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ohhkajal/DSA/tree/master/0018-4sum) |
@@ -220,6 +221,7 @@
 | [0010-regular-expression-matching](https://github.com/ohhkajal/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/ohhkajal/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ohhkajal/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ohhkajal/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ohhkajal/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ohhkajal/DSA/tree/master/0038-count-and-say) |
@@ -632,4 +634,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ohhkajal/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
