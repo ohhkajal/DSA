@@ -234,6 +234,7 @@
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ohhkajal/DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ohhkajal/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/ohhkajal/DSA/tree/master/0344-reverse-string) |
@@ -353,6 +354,7 @@
 | [0064-minimum-path-sum](https://github.com/ohhkajal/DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/ohhkajal/DSA/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/ohhkajal/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ohhkajal/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ohhkajal/DSA/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
