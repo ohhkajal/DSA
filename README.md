@@ -243,6 +243,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/ohhkajal/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/ohhkajal/DSA/tree/master/0761-special-binary-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ohhkajal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ohhkajal/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ohhkajal/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -361,6 +362,7 @@
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ohhkajal/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
