@@ -71,6 +71,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ohhkajal/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ohhkajal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ohhkajal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ohhkajal/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -166,6 +167,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ohhkajal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ohhkajal/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ohhkajal/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
@@ -186,6 +188,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ohhkajal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ohhkajal/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ohhkajal/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ohhkajal/DSA/tree/master/3731-find-missing-elements) |
@@ -376,6 +379,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ohhkajal/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Combinatorics
