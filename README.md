@@ -42,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ohhkajal/DSA/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/ohhkajal/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/ohhkajal/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ohhkajal/DSA/tree/master/0904-fruit-into-baskets) |
@@ -411,6 +412,7 @@
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0835-image-overlap](https://github.com/ohhkajal/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
