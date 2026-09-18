@@ -34,6 +34,7 @@
 | [0162-find-peak-element](https://github.com/ohhkajal/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ohhkajal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ohhkajal/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ohhkajal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -104,6 +105,7 @@
 | [0141-linked-list-cycle](https://github.com/ohhkajal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ohhkajal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/ohhkajal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -209,6 +211,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ohhkajal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ohhkajal/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ohhkajal/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ohhkajal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ohhkajal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/ohhkajal/DSA/tree/master/0904-fruit-into-baskets) |
