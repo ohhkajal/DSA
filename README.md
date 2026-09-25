@@ -63,6 +63,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ohhkajal/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ohhkajal/DSA/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ohhkajal/DSA/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/ohhkajal/DSA/tree/master/2029-stone-game-ix) |
@@ -160,6 +161,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ohhkajal/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ohhkajal/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ohhkajal/DSA/tree/master/1861-rotating-the-box) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ohhkajal/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ohhkajal/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -454,6 +456,7 @@
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/ohhkajal/DSA/tree/master/1861-rotating-the-box) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
