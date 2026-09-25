@@ -68,6 +68,7 @@
 | [2029-stone-game-ix](https://github.com/ohhkajal/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ohhkajal/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ohhkajal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ohhkajal/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ohhkajal/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ohhkajal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -202,6 +203,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ohhkajal/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ohhkajal/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ohhkajal/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ohhkajal/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -573,6 +575,7 @@
 | [2029-stone-game-ix](https://github.com/ohhkajal/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ohhkajal/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ohhkajal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ohhkajal/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ohhkajal/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
