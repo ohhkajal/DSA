@@ -721,4 +721,8 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ohhkajal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ohhkajal/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
