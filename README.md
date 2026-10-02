@@ -93,6 +93,7 @@
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3660-jump-game-ix](https://github.com/ohhkajal/DSA/tree/master/3660-jump-game-ix) |
 | [3731-find-missing-elements](https://github.com/ohhkajal/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ohhkajal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ohhkajal/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -429,6 +430,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ohhkajal/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
+| [3660-jump-game-ix](https://github.com/ohhkajal/DSA/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ohhkajal/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
