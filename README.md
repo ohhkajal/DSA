@@ -39,6 +39,7 @@
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -202,6 +203,7 @@
 | [0049-group-anagrams](https://github.com/ohhkajal/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ohhkajal/DSA/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -411,6 +413,7 @@
 | [0118-pascals-triangle](https://github.com/ohhkajal/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ohhkajal/DSA/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ohhkajal/DSA/tree/master/0877-stone-game) |
@@ -584,6 +587,7 @@
 | [0011-container-with-most-water](https://github.com/ohhkajal/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ohhkajal/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ohhkajal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ohhkajal/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
