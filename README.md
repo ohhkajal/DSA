@@ -275,6 +275,7 @@
 | [0115-distinct-subsequences](https://github.com/ohhkajal/DSA/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/ohhkajal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/ohhkajal/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ohhkajal/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -456,6 +457,7 @@
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/ohhkajal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ohhkajal/DSA/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [1096-brace-expansion-ii](https://github.com/ohhkajal/DSA/tree/master/1096-brace-expansion-ii) |
@@ -498,6 +500,7 @@
 | [0100-same-tree](https://github.com/ohhkajal/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/ohhkajal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/ohhkajal/DSA/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
