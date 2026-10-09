@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/ohhkajal/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ohhkajal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ohhkajal/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ohhkajal/DSA/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/ohhkajal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
@@ -273,6 +274,7 @@
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ohhkajal/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ohhkajal/DSA/tree/master/0115-distinct-subsequences) |
+| [0212-word-search-ii](https://github.com/ohhkajal/DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/ohhkajal/DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -458,6 +460,7 @@
 | [0039-combination-sum](https://github.com/ohhkajal/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ohhkajal/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/ohhkajal/DSA/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/ohhkajal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ohhkajal/DSA/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
@@ -472,6 +475,7 @@
 | [0064-minimum-path-sum](https://github.com/ohhkajal/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ohhkajal/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ohhkajal/DSA/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/ohhkajal/DSA/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/ohhkajal/DSA/tree/master/0835-image-overlap) |
@@ -740,6 +744,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ohhkajal/DSA/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/ohhkajal/DSA/tree/master/0212-word-search-ii) |
 ## Geometry
 |  |
 | ------- |
