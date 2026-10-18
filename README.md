@@ -63,6 +63,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ohhkajal/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ohhkajal/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -359,6 +360,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/ohhkajal/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ohhkajal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1927-sum-game](https://github.com/ohhkajal/DSA/tree/master/1927-sum-game) |
@@ -416,6 +418,7 @@
 | [0053-maximum-subarray](https://github.com/ohhkajal/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/ohhkajal/DSA/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/ohhkajal/DSA/tree/master/0761-special-binary-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -442,6 +445,7 @@
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ohhkajal/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ohhkajal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ohhkajal/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -461,6 +465,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ohhkajal/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ohhkajal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ohhkajal/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -529,6 +534,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -571,6 +577,7 @@
 | [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ohhkajal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Tree
@@ -581,6 +588,7 @@
 | [0101-symmetric-tree](https://github.com/ohhkajal/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ohhkajal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bitmask
 |  |
@@ -605,6 +613,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -662,6 +671,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -791,4 +801,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ohhkajal/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
