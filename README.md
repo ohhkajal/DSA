@@ -41,6 +41,7 @@
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ohhkajal/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0403-frog-jump](https://github.com/ohhkajal/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
@@ -453,6 +454,7 @@
 | [0118-pascals-triangle](https://github.com/ohhkajal/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ohhkajal/DSA/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0403-frog-jump](https://github.com/ohhkajal/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
