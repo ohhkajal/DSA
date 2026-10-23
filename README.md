@@ -103,6 +103,7 @@
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ohhkajal/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/ohhkajal/DSA/tree/master/3660-jump-game-ix) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ohhkajal/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ohhkajal/DSA/tree/master/3731-find-missing-elements) |
@@ -419,6 +420,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ohhkajal/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
