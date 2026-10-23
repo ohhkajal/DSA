@@ -45,6 +45,7 @@
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [0704-binary-search](https://github.com/ohhkajal/DSA/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/ohhkajal/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/ohhkajal/DSA/tree/master/0875-koko-eating-bananas) |
@@ -221,6 +222,7 @@
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [0761-special-binary-string](https://github.com/ohhkajal/DSA/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/ohhkajal/DSA/tree/master/1096-brace-expansion-ii) |
@@ -631,6 +633,7 @@
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ohhkajal/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ohhkajal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ohhkajal/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -714,6 +717,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
 ## Counting Sort
