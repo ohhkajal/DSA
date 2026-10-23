@@ -41,6 +41,7 @@
 | [0289-game-of-life](https://github.com/ohhkajal/DSA/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/ohhkajal/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -179,6 +180,7 @@
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ohhkajal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ohhkajal/DSA/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/ohhkajal/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/ohhkajal/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ohhkajal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +223,7 @@
 | [0075-sort-colors](https://github.com/ohhkajal/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ohhkajal/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [0761-special-binary-string](https://github.com/ohhkajal/DSA/tree/master/0761-special-binary-string) |
@@ -633,6 +636,7 @@
 | [0044-wildcard-matching](https://github.com/ohhkajal/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ohhkajal/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ohhkajal/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ohhkajal/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -820,4 +824,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
