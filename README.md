@@ -353,6 +353,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ohhkajal/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ohhkajal/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ohhkajal/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ohhkajal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -580,6 +581,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ohhkajal/DSA/tree/master/3310-remove-methods-from-project) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ohhkajal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -745,6 +747,7 @@
 | [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ohhkajal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -753,6 +756,7 @@
 |  |
 | ------- |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ohhkajal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Game Theory
 |  |
 | ------- |
