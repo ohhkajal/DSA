@@ -43,6 +43,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0403-frog-jump](https://github.com/ohhkajal/DSA/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ohhkajal/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/ohhkajal/DSA/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/ohhkajal/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
@@ -376,6 +377,7 @@
 | [0067-add-binary](https://github.com/ohhkajal/DSA/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/ohhkajal/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ohhkajal/DSA/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ohhkajal/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/ohhkajal/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ohhkajal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ohhkajal/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
