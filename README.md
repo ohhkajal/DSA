@@ -99,6 +99,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ohhkajal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ohhkajal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ohhkajal/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ohhkajal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/ohhkajal/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -165,6 +166,7 @@
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/ohhkajal/DSA/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ohhkajal/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ohhkajal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ohhkajal/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ohhkajal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -275,6 +277,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ohhkajal/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ohhkajal/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ohhkajal/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -403,6 +406,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ohhkajal/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/ohhkajal/DSA/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ohhkajal/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ohhkajal/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ohhkajal/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -495,6 +499,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ohhkajal/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ohhkajal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ohhkajal/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ohhkajal/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3592-inverse-coin-change](https://github.com/ohhkajal/DSA/tree/master/3592-inverse-coin-change) |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
@@ -756,6 +761,7 @@
 | ------- |
 | [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ohhkajal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
