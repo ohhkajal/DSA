@@ -76,6 +76,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ohhkajal/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ohhkajal/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ohhkajal/DSA/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/ohhkajal/DSA/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ohhkajal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ohhkajal/DSA/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/ohhkajal/DSA/tree/master/2029-stone-game-ix) |
@@ -769,6 +770,7 @@
 | ------- |
 | [0630-course-schedule-iii](https://github.com/ohhkajal/DSA/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/ohhkajal/DSA/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ohhkajal/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3594-minimum-time-to-transport-all-individuals](https://github.com/ohhkajal/DSA/tree/master/3594-minimum-time-to-transport-all-individuals) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ohhkajal/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
