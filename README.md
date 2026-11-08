@@ -62,6 +62,7 @@
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ohhkajal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ohhkajal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/ohhkajal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ohhkajal/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -553,6 +554,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/ohhkajal/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/ohhkajal/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/ohhkajal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/ohhkajal/DSA/tree/master/1861-rotating-the-box) |
@@ -569,6 +571,7 @@
 | [0112-path-sum](https://github.com/ohhkajal/DSA/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/ohhkajal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ohhkajal/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -584,6 +587,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/ohhkajal/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ohhkajal/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1096-brace-expansion-ii](https://github.com/ohhkajal/DSA/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/ohhkajal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/ohhkajal/DSA/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -592,6 +596,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ohhkajal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ohhkajal/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ohhkajal/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -660,6 +665,7 @@
 | ------- |
 | [0299-bulls-and-cows](https://github.com/ohhkajal/DSA/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/ohhkajal/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/ohhkajal/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ohhkajal/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/ohhkajal/DSA/tree/master/2029-stone-game-ix) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ohhkajal/DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
