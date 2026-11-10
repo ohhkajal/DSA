@@ -118,6 +118,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ohhkajal/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/ohhkajal/DSA/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/ohhkajal/DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/ohhkajal/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ohhkajal/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ohhkajal/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ohhkajal/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -516,6 +517,7 @@
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/ohhkajal/DSA/tree/master/3593-minimum-increments-to-equalize-leaf-paths) |
 | [3660-jump-game-ix](https://github.com/ohhkajal/DSA/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/ohhkajal/DSA/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/ohhkajal/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ohhkajal/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ohhkajal/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
