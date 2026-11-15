@@ -70,6 +70,7 @@
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ohhkajal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ohhkajal/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ohhkajal/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ohhkajal/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ohhkajal/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -303,6 +304,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/ohhkajal/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ohhkajal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ohhkajal/DSA/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ohhkajal/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ohhkajal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ohhkajal/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ohhkajal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -411,6 +413,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/ohhkajal/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ohhkajal/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ohhkajal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ohhkajal/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -507,6 +510,7 @@
 | [1406-stone-game-iii](https://github.com/ohhkajal/DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ohhkajal/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/ohhkajal/DSA/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ohhkajal/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ohhkajal/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ohhkajal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ohhkajal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
