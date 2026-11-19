@@ -89,6 +89,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ohhkajal/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ohhkajal/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ohhkajal/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ohhkajal/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/ohhkajal/DSA/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ohhkajal/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ohhkajal/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -263,6 +264,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ohhkajal/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ohhkajal/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ohhkajal/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ohhkajal/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/ohhkajal/DSA/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ohhkajal/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ohhkajal/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -723,6 +725,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ohhkajal/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ohhkajal/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ohhkajal/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ohhkajal/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ohhkajal/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ohhkajal/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ohhkajal/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
